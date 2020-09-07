@@ -41,4 +41,4 @@ Belarusian State University of Informatics and Radioelectronics
 [HTMLAcademy](https://htmlacademy.ru/profile/vadim-alexandrovich/achievements)
 
 ## English
-[Intermediate B1](https://ww.efset.org/cert/pYJvb3) (I hope so)
+[Intermediate B1](https://www.efset.org/cert/pYJvb3) (I hope so)
