@@ -39,3 +39,6 @@ Belarusian State University of Informatics and Radioelectronics
 [codewars.com](https://www.codewars.com/users/V.Alexandrovich)
 
 [HTMLAcademy](https://htmlacademy.ru/profile/vadim-alexandrovich/achievements)
+
+## English
+[Intermediate B1](https://ww.efset.org/cert/pYJvb3) (I hope so)
